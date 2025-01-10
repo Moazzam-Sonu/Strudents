@@ -1,0 +1,6 @@
+@StrudentCurd_HostAddress = http://localhost:5212
+
+GET {{StrudentCurd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
